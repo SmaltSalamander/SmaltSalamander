@@ -130,7 +130,7 @@
 <tr>
 	<th> Libft 
 <th> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6f4c2bs000609jmd8iqcx6p/project/2170561" alt="sbienias's 42 Libft Score" /></a>
-
+</table>
 
 <!--
 **SmaltSalamander/SmaltSalamander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
