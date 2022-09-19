@@ -8,6 +8,11 @@
     <th>Score</th>
   </tr>
 <tr>
+	<th> Professional Portfolio 
+
+<th> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6f4c2bs000609jmd8iqcx6p/project/2700423" alt="sbienias's 42 Professional Portfolio Score" /></a>
+
+<tr>
 	<th> ft_containers 
 
 <th> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6f4c2bs000609jmd8iqcx6p/project/2629288" alt="sbienias's 42 ft_containers Score" /></a>
