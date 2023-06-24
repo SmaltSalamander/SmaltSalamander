@@ -7,8 +7,10 @@
   <a href="https://www.linkedin.com/in/sanbie">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmaltSalamander&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SmaltSalamander&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmaltSalamander&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![sbienias's 42 stats](https://badge42.vercel.app/api/v2/cl6f4c2bs000609jmd8iqcx6p/stats?cursusId=21&coalitionId=355)](https://github.com/JaeSeoKim/badge42)
 <!--
 **SmaltSalamander/SmaltSalamander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
