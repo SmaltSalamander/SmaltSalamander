@@ -1,8 +1,9 @@
 ### Never stop learning
 
-I am a student at <a href="https://42wolfsburg.de/">42 Wolfsburg</a>, finished the common core with an internship at AUDI AG, doing Software Development and MLOps in the Machine Learning Department.
-I'm currently working in <a href="https://xl2.de/">XL2</a> as a Junior Data Engineer!
-I’m learning cloud development and developing my ML skills.
+I am a student at <a href="https://42wolfsburg.de/">42 Wolfsburg</a>, finished the common core with an internship at AUDI AG,  
+  doing Software Development and MLOps in the Machine Learning Department.  
+I'm currently working in <a href="https://xl2.de/">XL2</a> as a Junior Data Engineer!  
+Learning cloud development with AWS and developing my ML skills.  
 <div id="badges">
   <a href="https://www.linkedin.com/in/sanbie">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
